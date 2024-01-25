@@ -57,6 +57,7 @@ public class C05_ClassWork {
 
         //sayfayı kapatınız
         driver.quit();
+        //git icin yorum
 
     }
 
