@@ -1,7 +1,7 @@
 package day08_relativeLocators_dropdown_testbase;
 
 import org.junit.jupiter.api.Test;
-import utilities.TestBase;
+import utilites.TestBase;
 
 public class C03_TestBaseClassWork extends TestBase {
 
